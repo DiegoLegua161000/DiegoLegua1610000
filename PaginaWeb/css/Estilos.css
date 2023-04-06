@@ -1,0 +1,33 @@
+*{
+    margin: 3px;
+    padding: 3px;
+    border:0 ;
+    background-color: rgb(255, 237, 202);
+}
+h1{
+    text-align: center;
+    line-height: 200%;
+    color: #7898a9;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 175%;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+li{
+    color:#7898a9;
+    font-size: 150%;
+    text-indent: 5%;
+}
+.resena{
+    text-align: left;
+}
+<!--p {
+    text-align:justify;
+    color: #7898a9;
+    font-size: 150%;
+    text-indent: 5%;
+    opacity: 100%;
+}-->
